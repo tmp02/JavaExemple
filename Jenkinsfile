@@ -5,7 +5,6 @@ pipeline {
             steps {
                 bat 'echo hello world'
                 bat 'dir'
-                bat 'ls'
             }
         }
     }
